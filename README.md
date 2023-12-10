@@ -22,13 +22,15 @@ A Computer Engineering student at An-Najah University
 
 ## 🌱 Some of My Work
 
-### 🌟 Highlights
-
-[![takhzeen-website](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=takhzeen-website&theme=dark)](https://github.com/izzat5233/takhzeen-website)
+### Backend Development Projects
 
 [![carpet-cleaning-service-management](https://github-readme-stats.vercel.app/api/pin/?username=izzat-najah-edu&repo=carpet-cleaning-service-management&theme=gruvbox)](https://github.com/izzat-najah-edu/carpet-cleaning-service-management)
 
-[![Nim-Game](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=Nim-Game&theme=tokyonight)](https://github.com/izzat5233/Nim-Game)
+[![takhzeen-api](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=takhzeen-api&theme=dark)](https://github.com/izzat5233/takhzeen-api)
+
+[![chat-agent](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=chat-agent&theme=dark)](https://github.com/izzat5233/chat-agent)
+
+[![auto-blog](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=auto-blog&theme=dark)](https://github.com/izzat5233/auto-blog)
 
 ### Web Development Projects
 
@@ -43,11 +45,3 @@ A Computer Engineering student at An-Najah University
 [![Nim-Game](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=Nim-Game&theme=tokyonight)](https://github.com/izzat5233/Nim-Game)
 
 [![fruit-classifier-wasm](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=fruit-classifier-wasm&theme=tokyonight)](https://github.com/izzat5233/fruit-classifier-wasm)
-
-### Backend Development Projects
-
-[![carpet-cleaning-service-management](https://github-readme-stats.vercel.app/api/pin/?username=izzat-najah-edu&repo=carpet-cleaning-service-management&theme=gruvbox)](https://github.com/izzat-najah-edu/carpet-cleaning-service-management)
-
-[![chat-agent](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=chat-agent&theme=dark)](https://github.com/izzat5233/chat-agent)
-
-[![auto-blog](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=auto-blog&theme=dark)](https://github.com/izzat5233/auto-blog)
