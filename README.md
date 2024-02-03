@@ -2,7 +2,7 @@
 
 ## 👨‍💻 I'm Izzat Alsharif
 
-- Currently studying Computer Engineering at *An-Najah University*.
+- A Computer Engineering Student at *An-Najah University*.
 - You can reach me by email [contact@izzatalsharif.com](mailto://contact@izzatalsharif.com)
 - Or message me directly on
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izzatalsharif)
