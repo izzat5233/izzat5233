@@ -1,12 +1,3 @@
-# Hi 👋
-
-## 👨‍💻 I'm Izzat Alsharif
-
-- You can reach me via email at [hello@izzatalsharif.com](mailto://hello@izzatalsharif.com)
-- Or message me directly on
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izzatalsharif)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1202727244481699912)
-
 [![Codeforces Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=izzat5233&label=Codeforces%20Rating&query=$.result[0].rating&style=flat&logo=Codeforces&logoColor=white&color=red&style=flat)](https://codeforces.com/profile/izzat5233)
 [![Lichess Blitz Rating](https://img.shields.io/badge/dynamic/json?url=https://lichess.org/api/user/izzat5233&label=Lichess%20Blitz%20Rating&query=$.perfs.blitz.rating&style=flat&logo=lichess&logoColor=white&color=white)](https://lichess.org/@/izzat5233)
 
