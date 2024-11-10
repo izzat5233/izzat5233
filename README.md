@@ -1,28 +1,85 @@
+# 👋 Hi, I'm Izzat
+
+**Software Engineer** focused on Backend Development. Additional experience in Frontend Development, AI/ML applications,
+and DevOps.
+
 [![Codeforces Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=izzat5233&label=Codeforces%20Max%20Rating&query=$.result[0].maxRating&style=flat&logo=Codeforces&logoColor=white&color=blue)](https://codeforces.com/profile/izzat5233)
 [![Lichess Blitz Rating](https://img.shields.io/badge/dynamic/json?url=https://lichess.org/api/user/izzat5233&label=Lichess%20Blitz%20Rating&query=$.perfs.blitz.rating&style=flat&logo=lichess&logoColor=white&color=white)](https://lichess.org/@/izzat5233)
 
-## 🔭 Some of My Work
+---
 
-### AI & Machine Learning Projects
+## 🚀 Highlighted Projects
 
-[![fruit-classifier-wasm](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=fruit-classifier-wasm&theme=tokyonight)](https://github.com/izzat5233/fruit-classifier-wasm)
+### 🔹 Chatbot Builder Platform (Ongoing)
 
-[![Nim-Game](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=Nim-Game&theme=tokyonight)](https://github.com/izzat5233/Nim-Game)
+*Python | ASP.NET | LangChain | Kubernetes | Microservices*
 
-### Backend Development Projects
+A drag-and-drop platform for creating chatbot flows, executed by a LangChain-based Python engine and managed by an
+ASP.NET API. Kubernetes orchestrates microservices on Azure.
 
-[![carpet-cleaning-service-management](https://github-readme-stats.vercel.app/api/pin/?username=izzat-najah-edu&repo=carpet-cleaning-service-management&theme=gruvbox)](https://github.com/izzat-najah-edu/carpet-cleaning-service-management)
+🔗 [GitHub Repository](https://github.com/Chatbot-Builder-Project)
 
-[![takhzeen-api](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=takhzeen-api&theme=dark)](https://github.com/izzat5233/takhzeen-api)
+---
 
-[![chat-agent](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=chat-agent&theme=dark)](https://github.com/izzat5233/chat-agent)
+### 🔹 Travel and Accommodation Booking Platform
 
-[![auto-blog](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=auto-blog&theme=dark)](https://github.com/izzat5233/auto-blog)
+*ASP.NET | REST API | Clean Architecture | CQRS | JWT | Docker*
 
-### Web Development Projects
+A booking platform supporting secure login, search, checkout, and admin features, built on ASP.NET with Docker for
+containerization.
 
-[![takhzeen-website](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=takhzeen-website&theme=dark)](https://github.com/izzat5233/takhzeen-website)
+🔗 [GitHub Repository](https://github.com/DotNetBackendTraining/travel-and-accommodation-booking-platform)
 
-[![takhzeen-api](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=takhzeen-api&theme=dark)](https://github.com/izzat5233/takhzeen-api)
+---
 
-[![cuppa-joy](https://github-readme-stats.vercel.app/api/pin/?username=izzat5233&repo=cuppa-joy&theme=dark)](https://github.com/izzat5233/cuppa-joy)
+### 🔹 Fruism: Classifier Neural Network in WASM
+
+*C++ | WebAssembly | Neural Networks*
+
+A high-performance browser-based neural network classifier built in C++ and compiled to WebAssembly.
+
+🔗 [GitHub Repository](http://github.com/izzat5233/fruit-classifier-wasm) | [Live Site](https://izzat5233.github.io/fruit-classifier-wasm/)
+
+---
+
+### 🔹 Takhzeen Website
+
+*React | Tailwind | ExpressJS | MongoDB | Netlify*
+
+Developed the award-winning Takhzeen website using React and ExpressJS. Hosted on Netlify and Azure.
+
+🔗 [GitHub Repository](https://github.com/izzat5233/takhzeen-website) | [Live Site](https://takhzeen.netlify.app/)
+
+---
+
+## 🏢 Organizations
+
+### [Chatbot-Builder-Project](https://github.com/Chatbot-Builder-Project)
+
+An organization dedicated to the ongoing Chatbot Builder Platform, which allows users to design chatbots with a
+drag-and-drop interface, supported by a powerful backend in Python and ASP.NET.
+
+### [DotNetBackendTraining](https://github.com/DotNetBackendTraining)
+
+This organization houses my ASP.NET projects, including advanced training materials and applications for mastering
+backend development with .NET, clean architecture, CQRS, and REST APIs.
+
+### [izzat-najah-edu](https://github.com/izzat-najah-edu)
+
+A collection of projects developed during my university studies, featuring a mix of frontend and backend work with
+technologies like JavaFX, Java, and Spring Boot.
+
+### [Fine-Tuned Devs](https://github.com/fine-tuned-devs)
+
+This organization was formed for the U-Tech League 2024, where we won 1st place by developing an AI chatbot for Jawwal.
+The project, built with a **Retrieval-Augmented Generation (RAG)** system, highlights advanced AI techniques
+to enhance conversational abilities and provide accurate responses based on context.
+
+### [Bazar Platform](https://github.com/bazar-platform)
+
+The Bazar Platform is a microservices-based project developed for a Distributed Operating Systems (DOS) course. It
+simulates a multi-tier online bookstore with services for catalog management, order processing, and user interaction.
+
+---
+
+Thanks for stopping by!
