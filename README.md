@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Izzat
-
 [![Codeforces Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=izzat5233&label=Codeforces%20Max%20Rating&query=$.result[0].maxRating&style=flat&logo=Codeforces&logoColor=white&color=blue)](https://codeforces.com/profile/izzat5233)
 [![Lichess Blitz Rating](https://img.shields.io/badge/dynamic/json?url=https://lichess.org/api/user/izzat5233&label=Lichess%20Blitz%20Rating&query=$.perfs.blitz.rating&style=flat&logo=lichess&logoColor=white&color=white)](https://lichess.org/@/izzat5233)
 
