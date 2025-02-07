@@ -5,7 +5,7 @@
 
 ## 🚀 Highlighted Projects
 
-### 🔹 Chatbot Builder Platform (Ongoing)
+### 🔹 FlowX: Chatbot Builder
 
 *Python | ASP.NET | LangChain | Kubernetes | Microservices*
 
