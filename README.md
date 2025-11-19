@@ -22,7 +22,7 @@ ASP.NET API. Kubernetes orchestrates microservices on Azure.
 
 A physical educational game where children arrange programming blocks on a grid board to control a robotic car. Features OCR-based computer vision for real-time block recognition, a custom Python interpreter supporting loops, conditionals, and variables, and distributed architecture across Raspberry Pi, ESP32, Arduino, and mobile app.
 
-🔗 [GitHub Repository](https://github.com/TinkerBlocks)
+🔗 [GitHub Repository](https://github.com/Tinker-Blocks-Project)
 
 ---
 
@@ -64,7 +64,7 @@ Developed the award-winning Takhzeen website using React and ExpressJS. Hosted o
 An organization dedicated to the ongoing Chatbot Builder Platform, which allows users to design chatbots with a
 drag-and-drop interface, supported by a powerful backend in Python and ASP.NET.
 
-### [TinkerBlocks](https://github.com/TinkerBlocks)
+### [TinkerBlocks](https://github.com/Tinker-Blocks-Project)
 
 An educational tool that makes programming tangible for children through physical blocks. Children arrange programming blocks on a grid board to control a robotic car, bringing programming concepts to life. The project features OCR-based computer vision for real-time block recognition, a custom Python interpreter supporting loops, conditionals, and variables, and a distributed architecture connecting Raspberry Pi, ESP32, Arduino, and React Native mobile app.
 
