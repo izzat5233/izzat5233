@@ -36,9 +36,10 @@ A physical educational game where children arrange programming blocks on a grid 
 
 ---
 
-### 🔹(Literature Review) The evolution of information retrieval (BM25 -> DPR -> RAG)
+### 🔹 Literature Review: The evolution of information retrieval (BM25 -> DPR -> RAG)
 
-🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz) | [PDF Link](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
+📄 [PDF Link](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
+🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz)
 
 ---
 
