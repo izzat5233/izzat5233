@@ -3,7 +3,17 @@
 
 ---
 
-## 🚀 Highlighted Projects
+## 👩🏻‍💻 Currently Working At
+
+<a href="https://docs.intunedhq.com/" target="_blank" rel="noopener noreferrer">
+  <img width="500" height="145" alt="Intuned" src="https://github.com/user-attachments/assets/860016df-e226-4399-83aa-a834e56f3ae0" />
+</a>
+
+[docs.intunedhq.com](https://docs.intunedhq.com/)
+
+---
+
+## 🚀 More Projects
 
 ### 🔹 FlowX: Chatbot Builder
 
