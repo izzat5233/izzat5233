@@ -67,6 +67,14 @@ Developed the award-winning Takhzeen website using React and ExpressJS. Hosted o
 
 ---
 
+## 📄 Literature Reviews
+
+### 🔹The evolution of information retrieval (BM25 -> DPR -> RAG)
+
+🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz) | [PDF Link](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
+
+---
+
 ## 🏢 Organizations
 
 ### [Chatbot-Builder-Project](https://github.com/Chatbot-Builder-Project)
