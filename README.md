@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 More Projects
+## 🚀 Highlights
 
 ### 🔹 FlowX: Chatbot Builder
 
@@ -36,14 +36,9 @@ A physical educational game where children arrange programming blocks on a grid 
 
 ---
 
-### 🔹 Travel and Accommodation Booking Platform
+### 🔹(Literature Review) The evolution of information retrieval (BM25 -> DPR -> RAG)
 
-*ASP.NET | REST API | Clean Architecture | CQRS | JWT | Docker*
-
-A booking platform supporting secure login, search, checkout, and admin features, built on ASP.NET with Docker for
-containerization.
-
-🔗 [GitHub Repository](https://github.com/DotNetBackendTraining/travel-and-accommodation-booking-platform)
+🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz) | [PDF Link](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
 
 ---
 
@@ -57,6 +52,17 @@ A high-performance browser-based neural network classifier built in C++ and comp
 
 ---
 
+### 🔹 Travel and Accommodation Booking Platform
+
+*ASP.NET | REST API | Clean Architecture | CQRS | JWT | Docker*
+
+A booking platform supporting secure login, search, checkout, and admin features, built on ASP.NET with Docker for
+containerization.
+
+🔗 [GitHub Repository](https://github.com/DotNetBackendTraining/travel-and-accommodation-booking-platform)
+
+---
+
 ### 🔹 Takhzeen Website
 
 *React | Tailwind | ExpressJS | MongoDB | Netlify*
@@ -67,24 +73,7 @@ Developed the award-winning Takhzeen website using React and ExpressJS. Hosted o
 
 ---
 
-## 📄 Literature Reviews
-
-### 🔹The evolution of information retrieval (BM25 -> DPR -> RAG)
-
-🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz) | [PDF Link](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
-
----
-
-## 🏢 Organizations
-
-### [Chatbot-Builder-Project](https://github.com/Chatbot-Builder-Project)
-
-An organization dedicated to the ongoing Chatbot Builder Platform, which allows users to design chatbots with a
-drag-and-drop interface, supported by a powerful backend in Python and ASP.NET.
-
-### [TinkerBlocks](https://github.com/Tinker-Blocks-Project)
-
-An educational tool that makes programming tangible for children through physical blocks. Children arrange programming blocks on a grid board to control a robotic car, bringing programming concepts to life. The project features OCR-based computer vision for real-time block recognition, a custom Python interpreter supporting loops, conditionals, and variables, and a distributed architecture connecting Raspberry Pi, ESP32, Arduino, and React Native mobile app.
+## 🏢 Open Source Projects
 
 ### [DotNetBackendTraining](https://github.com/DotNetBackendTraining)
 
