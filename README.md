@@ -24,6 +24,8 @@ ASP.NET API. Kubernetes orchestrates microservices on Azure.
 
 🔗 [GitHub Repository](https://github.com/Chatbot-Builder-Project)
 
+📄 [PDF Thesis](https://github.com/Chatbot-Builder-Project/chatbot-builder-latex/blob/main/main.pdf)
+
 ---
 
 ### 🔹 TinkerBlocks: Educational Programming Tool
@@ -34,13 +36,15 @@ A physical educational game where children arrange programming blocks on a grid 
 
 🔗 [GitHub Repository](https://github.com/Tinker-Blocks-Project)
 
+📄 [PDF Thesis](https://github.com/Tinker-Blocks-Project/tinker-blocks-latex/blob/main/main.pdf)
+
 ---
 
 ### 🔹 Literature Review: The evolution of information retrieval (BM25 -> DPR -> RAG)
 
-📄 [PDF Link](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
-
 🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz)
+
+📄 [PDF Report](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
 
 ---
 
@@ -50,7 +54,9 @@ A physical educational game where children arrange programming blocks on a grid 
 
 A high-performance browser-based neural network classifier built in C++ and compiled to WebAssembly.
 
-🔗 [GitHub Repository](http://github.com/izzat5233/fruit-classifier-wasm) | [Live Site](https://izzat5233.github.io/fruit-classifier-wasm/)
+🔗 [GitHub Repository](http://github.com/izzat5233/fruit-classifier-wasm)
+
+🌐 [Live Site](https://izzat5233.github.io/fruit-classifier-wasm/)
 
 ---
 
@@ -71,7 +77,9 @@ containerization.
 
 Developed the award-winning Takhzeen website using React and ExpressJS. Hosted on Netlify and Azure.
 
-🔗 [GitHub Repository](https://github.com/izzat5233/takhzeen-website) | [Live Site](https://takhzeen.netlify.app/)
+🔗 [GitHub Repository](https://github.com/izzat5233/takhzeen-website)
+
+🌐 [Live Site](https://takhzeen.netlify.app/)
 
 ---
 
