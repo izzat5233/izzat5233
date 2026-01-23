@@ -15,7 +15,7 @@
 
 ## 🚀 Highlights
 
-### 🔹 FlowX: Chatbot Builder
+### 🔹 FlowX: Chatbot Builder (Project + Paper)
 
 *Python | ASP.NET | LangChain | Kubernetes | Microservices*
 
@@ -24,11 +24,11 @@ ASP.NET API. Kubernetes orchestrates microservices on Azure.
 
 🔗 [GitHub Repository](https://github.com/Chatbot-Builder-Project)
 
-📄 [PDF Thesis](https://github.com/Chatbot-Builder-Project/chatbot-builder-latex/blob/main/main.pdf)
+📄 [PDF Paper](https://github.com/Chatbot-Builder-Project/chatbot-builder-latex/blob/main/main.pdf)
 
 ---
 
-### 🔹 TinkerBlocks: Educational Programming Tool
+### 🔹 TinkerBlocks: Educational Programming Tool (Project + Paper)
 
 *Python | Computer Vision | OCR | Raspberry Pi | ESP32 | Arduino | React Native*
 
@@ -36,11 +36,11 @@ A physical educational game where children arrange programming blocks on a grid 
 
 🔗 [GitHub Repository](https://github.com/Tinker-Blocks-Project)
 
-📄 [PDF Thesis](https://github.com/Tinker-Blocks-Project/tinker-blocks-latex/blob/main/main.pdf)
+📄 [PDF Paper](https://github.com/Tinker-Blocks-Project/tinker-blocks-latex/blob/main/main.pdf)
 
 ---
 
-### 🔹 Literature Review: The evolution of information retrieval (BM25 -> DPR -> RAG)
+### 🔹 The evolution of information retrieval: BM25 -> DPR -> RAG (Literature Review)
 
 🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz)
 
@@ -48,7 +48,7 @@ A physical educational game where children arrange programming blocks on a grid 
 
 ---
 
-### 🔹 Fruism: Classifier Neural Network in WASM
+### 🔹 Fruism: Classifier Neural Network in WASM (Library + Live Website)
 
 *C++ | WebAssembly | Neural Networks*
 
@@ -60,7 +60,7 @@ A high-performance browser-based neural network classifier built in C++ and comp
 
 ---
 
-### 🔹 Travel and Accommodation Booking Platform
+### 🔹 Travel and Accommodation Booking Platform (Project)
 
 *ASP.NET | REST API | Clean Architecture | CQRS | JWT | Docker*
 
@@ -71,7 +71,7 @@ containerization.
 
 ---
 
-### 🔹 Takhzeen Website
+### 🔹 Takhzeen Website (Project + Live Website)
 
 *React | Tailwind | ExpressJS | MongoDB | Netlify*
 
