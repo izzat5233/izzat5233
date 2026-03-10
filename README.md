@@ -5,9 +5,18 @@
 
 ## 👩🏻‍💻 Currently Working At
 
-<a href="https://docs.intunedhq.com/" target="_blank" rel="noopener noreferrer">
-  <img width="500" height="145" alt="Intuned" src="https://github.com/user-attachments/assets/860016df-e226-4399-83aa-a834e56f3ae0" />
-</a>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://docs.intunedhq.com/" target="_blank" rel="noopener noreferrer">
+        <img width="500" height="145" alt="Intuned" src="https://github.com/user-attachments/assets/860016df-e226-4399-83aa-a834e56f3ae0" />
+      </a>
+    </td>
+    <td valign="middle">
+      <img width="145" height="145" alt="YCombinator" src="https://github.com/user-attachments/assets/8963d2be-9410-4201-90c2-158a3c8f96e2" />
+    </td>
+  </tr>
+</table>
 
 🔗 [docs.intunedhq.com](https://docs.intunedhq.com/)
 
