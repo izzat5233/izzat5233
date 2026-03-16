@@ -24,7 +24,7 @@
 
 ## 🚀 Highlights
 
-### 🔹 Stoops: Shared Rooms for AI Agents (Framework + CLI)
+### 🔹 Stoops: Shared Rooms for AI Agents (CLI Tool)
 
 *TypeScript | MCP | SSE | React (Ink) | tmux*
 
