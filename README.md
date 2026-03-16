@@ -62,8 +62,8 @@ A neural network library written from scratch in C++, compiled to WebAssembly. B
 
 ---
 
-## Other Work
+### The Evolution of Information Retrieval: BM25 → DPR → RAG (Literature Review)
 
-- **U-Tech League 2024** — 1st place. Built a RAG chatbot for Jawwal with LangChain and FastAPI. ([GitHub](https://github.com/fine-tuned-devs))
-- **BM25 → DPR → RAG** — Literature review on the evolution of information retrieval. ([Paper](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf))
-- **Quantum Vehicle Routing** — Hackathon project for humanitarian water distribution. ([GitHub](https://github.com/izzat5233/quick-aid))
+A literature review tracing the evolution of information retrieval from sparse methods (BM25) through dense passage retrieval (DPR) to retrieval-augmented generation (RAG).
+
+[GitHub](https://github.com/izzat5233/literature-review-r2l-lab-quiz) · [Paper](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
