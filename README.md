@@ -1,9 +1,9 @@
-[![Codeforces Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=izzat5233&label=Codeforces%20Max%20Rating&query=$.result[0].maxRating&style=flat&logo=Codeforces&logoColor=white&color=blue)](https://codeforces.com/profile/izzat5233)
-[![Lichess Blitz Rating](https://img.shields.io/badge/dynamic/json?url=https://lichess.org/api/user/izzat5233&label=Lichess%20Blitz%20Rating&query=$.perfs.blitz.rating&style=flat&logo=lichess&logoColor=white&color=white)](https://lichess.org/@/izzat5233)
+AI Engineer building multi-agent systems, browser automation, and agent orchestration with LangGraph and LangChain. Currently building [Stoops](https://github.com/stoops-io/stoops-cli) — an open source messenger where AI agents are persistent social participants.
 
----
+[![Codeforces Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=izzat5233&label=Codeforces&query=$.result[0].maxRating&style=flat&logo=Codeforces&logoColor=white&color=blue)](https://codeforces.com/profile/izzat5233)
+[![Lichess Blitz Rating](https://img.shields.io/badge/dynamic/json?url=https://lichess.org/api/user/izzat5233&label=Lichess%20Blitz&query=$.perfs.blitz.rating&style=flat&logo=lichess&logoColor=white&color=white)](https://lichess.org/@/izzat5233)
 
-## 👩🏻‍💻 Currently Working At
+## Currently Working At
 
 <table>
   <tr>
@@ -18,113 +18,54 @@
   </tr>
 </table>
 
-🔗 [docs.intunedhq.com](https://docs.intunedhq.com/)
+[docs.intunedhq.com](https://docs.intunedhq.com/)
 
 ---
 
-## 🚀 Highlights
+## Featured Projects
 
-### 🔹 Stoops: Shared Rooms for AI Agents (Open Source CLI Tool)
+### Stoops: Open Source Agent Messenger
 
-*TypeScript | MCP | CLI | AI Agents | Real-Time | Claude Code | Codex*
+*TypeScript | MCP | WebSockets | AI Agents | Claude Code | Codex*
 
-A real-time framework where AI agents and humans share chat rooms. Agents join rooms, receive events through an engagement engine, and interact via MCP tools. Supports Claude Code, Codex, and OpenCode runtimes with pluggable delivery (tmux injection, HTTP API).
+A messenger where AI agents are persistent participants in chat rooms. Users own agent identity, developers provide runtimes, and Stoops owns the social continuity layer. Agents carry memory and context across rooms and sessions — something no existing platform does.
 
-🔗 [GitHub Repository](https://github.com/stoops-io/stoops-cli)
-
----
-
-### 🔹 FlowX: Chatbot Builder (Project + Paper)
-
-*Python | ASP.NET | LangChain | Kubernetes | Microservices*
-
-A drag-and-drop platform for creating chatbot flows, executed by a LangChain-based Python engine and managed by an
-ASP.NET API. Kubernetes orchestrates microservices on Azure.
-
-🔗 [GitHub Repository](https://github.com/Chatbot-Builder-Project)
-
-📄 [PDF Paper](https://github.com/Chatbot-Builder-Project/chatbot-builder-latex/blob/main/main.pdf)
+[GitHub](https://github.com/stoops-io/stoops-cli)
 
 ---
 
-### 🔹 TinkerBlocks: Educational Programming Tool (Project + Paper)
+### FlowX: Visual Chatbot Builder (Thesis)
 
-*Python | Computer Vision | OCR | Raspberry Pi | ESP32 | Arduino | React Native*
+*Python | LangChain | ASP.NET | gRPC | Kubernetes | Terraform | Azure*
 
-A physical educational game where children arrange programming blocks on a grid board to control a robotic car. Features OCR-based computer vision for real-time block recognition, a custom Python interpreter supporting loops, conditionals, and variables, and distributed architecture across Raspberry Pi, ESP32, Arduino, and mobile app.
+A drag-and-drop platform for building chatbots that combine structured logic flows with generative AI. A LangChain-based Python engine executes workflows, an ASP.NET API manages state, and Kubernetes orchestrates the microservices on Azure. 370+ commits across 7 repos.
 
-🔗 [GitHub Repository](https://github.com/Tinker-Blocks-Project)
-
-📄 [PDF Paper](https://github.com/Tinker-Blocks-Project/tinker-blocks-latex/blob/main/main.pdf)
+[GitHub](https://github.com/Chatbot-Builder-Project) · [Paper](https://github.com/Chatbot-Builder-Project/chatbot-builder-latex/blob/main/main.pdf)
 
 ---
 
-### 🔹 The evolution of information retrieval: BM25 -> DPR -> RAG (Literature Review)
+### TinkerBlocks: Programming with Physical Blocks (Thesis)
 
-🔗 [GitHub Repository](https://github.com/izzat5233/literature-review-r2l-lab-quiz)
+*Python | OpenCV | LangChain | Raspberry Pi | ESP32 | Arduino | React Native*
 
-📄 [PDF Report](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf)
+Children arrange physical programming blocks (MOVE, LOOP, IF) on a grid board. A camera reads them via computer vision + LLM-powered OCR, a custom interpreter executes the program, and a robotic car moves in response. Full pipeline: camera → CV → AI → interpreter → hardware.
+
+[GitHub](https://github.com/Tinker-Blocks-Project) · [Paper](https://github.com/Tinker-Blocks-Project/tinker-blocks-latex/blob/main/main.pdf)
 
 ---
 
-### 🔹 Fruism: Classifier Neural Network in WASM (Library + Live Website)
+### Fruism: Neural Network in the Browser
 
 *C++ | WebAssembly | Neural Networks*
 
-A high-performance browser-based neural network classifier built in C++ and compiled to WebAssembly.
+A neural network library written from scratch in C++, compiled to WebAssembly. Build, train, and run classifiers directly in the browser with interactive visualization.
 
-🔗 [GitHub Repository](http://github.com/izzat5233/fruit-classifier-wasm)
-
-🌐 [Live Site](https://izzat5233.github.io/fruit-classifier-wasm/)
+[GitHub](https://github.com/izzat5233/fruit-classifier-wasm) · [Live Demo](https://izzat5233.github.io/fruit-classifier-wasm/)
 
 ---
 
-### 🔹 Travel and Accommodation Booking Platform (Project)
+## Other Work
 
-*ASP.NET | REST API | Clean Architecture | CQRS | JWT | Docker*
-
-A booking platform supporting secure login, search, checkout, and admin features, built on ASP.NET with Docker for
-containerization.
-
-🔗 [GitHub Repository](https://github.com/DotNetBackendTraining/travel-and-accommodation-booking-platform)
-
----
-
-### 🔹 Takhzeen Website (Project + Live Website)
-
-*React | Tailwind | ExpressJS | MongoDB | Netlify*
-
-Developed the award-winning Takhzeen website using React and ExpressJS. Hosted on Netlify and Azure.
-
-🔗 [GitHub Repository](https://github.com/izzat5233/takhzeen-website)
-
-🌐 [Live Site](https://takhzeen.netlify.app/)
-
----
-
-## 🏢 Open Source Projects
-
-### [DotNetBackendTraining](https://github.com/DotNetBackendTraining)
-
-This organization houses my ASP.NET projects, including advanced training materials and applications for mastering
-backend development with .NET, clean architecture, CQRS, and REST APIs.
-
-### [izzat-najah-edu](https://github.com/izzat-najah-edu)
-
-A collection of projects developed during my university studies, featuring a mix of frontend and backend work with
-technologies like JavaFX, Java, and Spring Boot.
-
-### [Fine-Tuned Devs](https://github.com/fine-tuned-devs)
-
-This organization was formed for the U-Tech League 2024, where we won 1st place by developing an AI chatbot for Jawwal.
-The project, built with a **Retrieval-Augmented Generation (RAG)** system, highlights advanced AI techniques
-to enhance conversational abilities and provide accurate responses based on context.
-
-### [Bazar Platform](https://github.com/bazar-platform)
-
-The Bazar Platform is a microservices-based project developed for a Distributed Operating Systems (DOS) course. It
-simulates a multi-tier online bookstore with services for catalog management, order processing, and user interaction.
-
----
-
-Thanks for stopping by!
+- **U-Tech League 2024** — 1st place. Built a RAG chatbot for Jawwal with LangChain and FastAPI. ([GitHub](https://github.com/fine-tuned-devs))
+- **BM25 → DPR → RAG** — Literature review on the evolution of information retrieval. ([Paper](https://github.com/izzat5233/literature-review-r2l-lab-quiz/blob/master/Task1/Literature%20Review.pdf))
+- **Quantum Vehicle Routing** — Hackathon project for humanitarian water distribution. ([GitHub](https://github.com/izzat5233/quick-aid))
