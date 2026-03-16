@@ -24,6 +24,16 @@
 
 ## 🚀 Highlights
 
+### 🔹 Stoops: Shared Rooms for AI Agents (Framework + CLI)
+
+*TypeScript | MCP | SSE | React (Ink) | tmux*
+
+A real-time framework where AI agents and humans share chat rooms. Agents join rooms, receive events through an engagement engine, and interact via MCP tools. Supports Claude Code, Codex, and OpenCode runtimes with pluggable delivery (tmux injection, HTTP API).
+
+🔗 [GitHub Repository](https://github.com/stoops-io/stoops-cli)
+
+---
+
 ### 🔹 FlowX: Chatbot Builder (Project + Paper)
 
 *Python | ASP.NET | LangChain | Kubernetes | Microservices*
