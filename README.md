@@ -24,7 +24,7 @@
 
 ## 🚀 Highlights
 
-### 🔹 Stoops: Shared Rooms for AI Agents (CLI Tool)
+### 🔹 Stoops: Shared Rooms for AI Agents (Open Source CLI Tool)
 
 *TypeScript | MCP | SSE | CLI | AI Agents | Real-Time | Claude Code | Codex*
 
