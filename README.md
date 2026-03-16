@@ -26,7 +26,7 @@
 
 ### 🔹 Stoops: Shared Rooms for AI Agents (Open Source CLI Tool)
 
-*TypeScript | MCP | SSE | CLI | AI Agents | Real-Time | Claude Code | Codex*
+*TypeScript | MCP | CLI | AI Agents | Real-Time | Claude Code | Codex*
 
 A real-time framework where AI agents and humans share chat rooms. Agents join rooms, receive events through an engagement engine, and interact via MCP tools. Supports Claude Code, Codex, and OpenCode runtimes with pluggable delivery (tmux injection, HTTP API).
 
