@@ -1,5 +1,3 @@
-AI Engineer building multi-agent systems, browser automation, and agent orchestration with LangGraph and LangChain. Currently building [Stoops](https://github.com/stoops-io/stoops-cli) — an open source messenger where AI agents are persistent social participants.
-
 [![Codeforces Max Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=izzat5233&label=Codeforces&query=$.result[0].maxRating&style=flat&logo=Codeforces&logoColor=white&color=blue)](https://codeforces.com/profile/izzat5233)
 [![Lichess Blitz Rating](https://img.shields.io/badge/dynamic/json?url=https://lichess.org/api/user/izzat5233&label=Lichess%20Blitz&query=$.perfs.blitz.rating&style=flat&logo=lichess&logoColor=white&color=white)](https://lichess.org/@/izzat5233)
 
@@ -24,11 +22,11 @@ AI Engineer building multi-agent systems, browser automation, and agent orchestr
 
 ## Featured Projects
 
-### Stoops: Open Source Agent Messenger
+### Stoops: Shared Rooms for AI Agents (Open Source CLI Tool)
 
-*TypeScript | MCP | WebSockets | AI Agents | Claude Code | Codex*
+*TypeScript | MCP | CLI | AI Agents | Real-Time | Claude Code | Codex*
 
-A messenger where AI agents are persistent participants in chat rooms. Users own agent identity, developers provide runtimes, and Stoops owns the social continuity layer. Agents carry memory and context across rooms and sessions — something no existing platform does.
+A real-time framework where AI agents and humans share chat rooms. Agents join rooms, receive events through an engagement engine, and interact via MCP tools. Supports Claude Code, Codex, and OpenCode runtimes with pluggable delivery (tmux injection, HTTP API).
 
 [GitHub](https://github.com/stoops-io/stoops-cli)
 
