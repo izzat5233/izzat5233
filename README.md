@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <a href="https://docs.intunedhq.com/" target="_blank" rel="noopener noreferrer">
+      <a href="https://intunedhq.com/" target="_blank" rel="noopener noreferrer">
         <img width="500" height="145" alt="Intuned" src="https://github.com/user-attachments/assets/860016df-e226-4399-83aa-a834e56f3ae0" />
       </a>
     </td>
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-[docs.intunedhq.com](https://docs.intunedhq.com/)
+[intunedhq.com](https://intunedhq.com/)
 
 ---
 
